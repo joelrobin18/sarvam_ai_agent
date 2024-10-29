@@ -22,10 +22,10 @@ crypto_agent/
 │   ├── message.py           
 ├── agents/
 │   ├── tools/
-│         ├── __init__.py   
-│         ├──  base_tool.py 
-│         ├── crypto_tool.py   
-│         ├── translate_tool.py   
+│   │     ├── __init__.py   
+│   │     ├──  base_tool.py 
+│   │     ├── crypto_tool.py   
+│   │     ├── translate_tool.py   
 │   ├── agent.py
 │   ├── exceptions.py 
 │   ├── llm_client.py 
