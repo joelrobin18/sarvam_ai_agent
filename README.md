@@ -75,6 +75,12 @@ load_dotenv()
 api_key = os.getenv("TOGETHER_API_KEY")
 ```
 
+5. To run the agent, follow these steps:
+```bash
+cd crypto_agent
+python3 main.py
+```
+
 ### Usage
 
 #### Using CryptoTool
